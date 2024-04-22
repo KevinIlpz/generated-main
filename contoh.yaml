@@ -1,0 +1,81 @@
+output: contoh.html
+---
+KNOW YOUR CLIENT (KYC) APPLICATION FORM :
+  1.Client company Name:
+    field: test
+    type: textarea
+  2.Incorporation No.:
+    field: test
+    type: textarea
+  3.Incorporation Jurisdiction (Country/State):
+    field: test
+    type: textarea
+  4. Client's Registered Office Address:
+    field: test
+    type: textarea
+  5. Clients Telephone Number:
+    field: test
+    type: textarea
+  6. Client Website Address:
+    field: test
+    type: textarea
+  7. Client Email Address:
+    field: test
+    type: textarea
+  8. Client Date of Incorporation:
+    field: test
+    type: textarea
+  9. Client Key Contact Name and Title:
+    field: test
+    type: textarea
+  10.Who will be responsible for our fund:
+    field: test
+    type: textarea
+  11. Who are the Board of Directors and promoters of the company:
+    field: test
+    type: textarea
+  12.Client’s Banker’s Name & Address :
+    field: test
+    type: textarea
+  13. Client’s Auditor’s Name & Address:
+    field: test
+    type: textarea
+  14. Client’s Solicitor’s Name & Address:
+    field: test
+    type: textarea
+  15.Client’s number of employees:
+    field: test
+    type: textarea
+  16. How much funding required and in what currency:
+    field: test
+    type: textarea
+  17.What security (if any) is being offered and what is the value of the security:
+    field: test
+    type: textarea
+  18. Are you expecting 100% finance from the investor?:
+    field: test
+    type: textarea
+  19. Is there any existing mortgage/charge on the security? If so provide details:
+    field: test
+    type: textarea
+  20. Does the company have clean credit record?:
+    field: test
+    type: textarea
+  21. Do you have last 3 years audited financial statements:
+    field: test
+    type: textarea
+  22. Are there any politicians involved (directly or indirectly) in the company/project:
+    field: test
+    type: textarea
+  23. Have you already submitted the proposal to any financial institution or investment firm:
+    field: test
+    type: textarea
+  24. What is your financial strength?:
+    field: test
+    type: textarea
+
+Kirim:
+  type: button
+  class: primary
+
+
